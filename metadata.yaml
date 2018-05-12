@@ -1,0 +1,38 @@
+_repo: Photogravure_36446
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Blaney, Henry R.
+    aliases:
+    - Blaney, H. R. (Henry Robertson)
+    - Blaney, Henry Robertson
+    birthdate: 1855
+    deathdate: 1913
+    gutenberg_agent_id: '38277'
+    url: http://www.gutenberg.org/2009/agents/38277
+  editor:
+    agent_name: Adams, W. I. Lincoln (Washington Irving Lincoln)
+    alias: Adams, Washington Irving Lincoln
+    birthdate: 1865
+    deathdate: 1946
+    gutenberg_agent_id: '38261'
+    url: http://www.gutenberg.org/2009/agents/38261
+description: ''
+gutenberg_bookshelf: Photography
+gutenberg_issued: '2011-06-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36446'
+  lccn: 09006814
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TR'
+- !lcsh 'Photogravure'
+title: Photogravure
+url: http://www.gutenberg.org/ebooks/36446
